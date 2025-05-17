@@ -7,3 +7,5 @@ J
 contracts/rebalancing.clar,2/1/21dee29ee0c6c5c7c69c2f7e9433115956a3a84f
 M
 contracts/yield-tracking.clar,b/4/b49c7c7e9ce735b1a2170b1f61113457e9fa8f8c
+=
+Clarinet.toml,9/d/9d284ad9ceb4c6d6525244c8f2230e5943b9c9b2
